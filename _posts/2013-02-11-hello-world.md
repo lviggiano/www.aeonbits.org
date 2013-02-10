@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World\!"
+title: "Hello World!"
 description: "The first blog post, just to test that things are working as expected!"
 category: general
 tags: []
