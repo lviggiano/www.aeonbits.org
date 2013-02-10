@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to aeonbits.org 
-tagline: my open source contribution
+tagline: (my open source contribution)
 ---
 {% include JB/setup %}
 
