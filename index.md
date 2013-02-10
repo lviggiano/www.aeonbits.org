@@ -9,7 +9,7 @@ This page contains my open source contributions.
 
 Have a look at [OWNER API](http://owner.aeonbits.org), a simple API to ease Java Properties file handling.
     
-## Latest posts
+### Latest posts
 
 <ul class="posts">
   {% for post in site.posts %}
