@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OWNER 1.0.3.1 released"
-description: ""
+description: "first maintenance release for OWNER"
 category: owner 
 tags: [annotations, bsd, configuration, free, library, maven, owner, owner api, properties, release, announcement]
 ---
