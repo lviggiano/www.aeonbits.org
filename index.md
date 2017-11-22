@@ -5,8 +5,6 @@ tagline: (my open source contribution)
 ---
 {% include JB/setup %}
 
-This page contains my open source contributions.
-
 Have a look at [OWNER API](http://owner.aeonbits.org), a simple API to ease Java Properties file handling.
     
 ### Latest posts
