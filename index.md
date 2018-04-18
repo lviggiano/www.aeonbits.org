@@ -1,15 +1,11 @@
 ---
-layout: page
-title: Welcome to aeonbits.org 
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
 ---
-{% include JB/setup %}
 
-Have a look at [OWNER API](http://owner.aeonbits.org), a simple API to ease Java Properties file handling.
-    
-### Latest posts
+Have a look at 
+- [OWNER API](http://owner.aeonbits.org), a simple API to ease Java Properties file handling.
+- [Bitcoin and the Blockchain Intro slides](http://bitcoin.aeonbits.org/), presentation about Bitcoin.
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
