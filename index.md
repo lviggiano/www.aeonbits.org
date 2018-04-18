@@ -7,5 +7,5 @@ layout: home
 
 Have a look at 
 - [OWNER API](http://owner.aeonbits.org), a simple API to ease Java Properties file handling.
-- [Bitcoin and the Blockchain Intro slides](http://bitcoin.aeonbits.org/), presentation about Bitcoin.
+- [Bitcoin and the Blockchain Intro slides](https://bitcoin.aeonbits.org/), presentation about Bitcoin.
 
