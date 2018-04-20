@@ -15,7 +15,7 @@ and it's still alive today: [JUG Torino](http://www.jugtorino.it).
 
 I worked in several industries:
 - Financial
-- Telecommunication
+- Telecommunications
 - Software engineering and consultancy
 - Public Administration
 
