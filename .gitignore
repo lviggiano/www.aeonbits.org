@@ -4,6 +4,7 @@
 .rbenv-version
 .rvmrc
 .idea/
+*.iml
 
 _site
 .sass-cache
