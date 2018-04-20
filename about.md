@@ -11,7 +11,8 @@ I'm Luigi, I born in 1977 and I work as software developer since 1998. I have st
 If you are looking for my cv, you can find it [here](../docs/luigi_viggiano.pdf). References available upon request.
 
 In 2000 I and my friend [Bruno Bossola](https://bbossola.wordpress.com/) founded the first local Java User Group in Italy, 
-and it's still alive today: [JUG Torino](http://www.jugtorino.it).
+and it's still alive today: [JUG Torino](http://www.jugtorino.it), and this gave me the chance to meet and work with 
+fantastic people.
 
 I worked in several industries:
 - Financial
@@ -36,7 +37,8 @@ I am passionate about so many things, some of them:
 - Movies, music, books
 - Traveling with good company
 
-I used to practice boxe, but I stopped some time ago.  
+I used to practice boxe, but I stopped some time ago.
+
 I also used to have a technical blog (www.newinstance.it) but it exploded when I had issues with my 
 hosting provider, I still have the backup, maybe one day I'll port all the contents from Wordpress to this site. 
 Or maybe not :-)
