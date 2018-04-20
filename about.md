@@ -23,6 +23,8 @@ Some of the companies I worked with:
 - Sun Microsystems
 - Hewlett Packard
 - Vodafone Global
+- Telecom Italia
+- Fastweb
 - UBS Bank
 - Banca Sella
 - Intesa San Paolo Bank
