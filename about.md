@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! 
 
-I'm Luigi, I born in 1977 and I work a software developer since 1998.
+I'm Luigi, I born in 1977 and I work as software developer since 1998. I have strong experience on the Java ecosystem.
 
 If you are looking for my cv, you can find it [here](../docs/luigi_viggiano.pdf). References available upon request.
 
