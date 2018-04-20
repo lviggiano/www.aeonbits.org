@@ -36,5 +36,5 @@ I am passionate about so many things, some of them:
 
 I used to practice boxe, but I stopped some time ago.
 I also used to have a technical blog (www.newinstance.it) but it exploded some time ago when I had issues with my 
-hosting provider, I still have the backup, maybe one day I'll port all the contents from Wordpress to Jekyll. 
+hosting provider, I still have the backup, maybe one day I'll port all the contents from Wordpress to this site. 
 Or maybe not :-)
