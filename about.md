@@ -14,6 +14,7 @@ permalink: /about/
 <a href="https://twitter.com/lviggiano/"><i class="fa fa-fw fa-twitter"></i></a>
 <a href="https://www.facebook.com/luigi.viggiano.94"><i class="fa fa-fw fa-facebook"></i></a>
 <a href="https://www.flickr.com/photos/lviggiano/"><i class="fa fa-fw fa-flickr"></i></a>
+<a href="https://www.amazon.it/gp/profile/amzn1.account.AFQON7R25FKBPZJKPKISUOMDN2YA"><i class="fa fa-fw fa-amazon"></i></a>
 <a href="http://www.luigiviggiano.photography"><i class="fa fa-fw fa-camera"></i></a>
 </div>
 
