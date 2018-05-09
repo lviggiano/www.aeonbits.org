@@ -5,7 +5,7 @@ date:   2018-05-09 12:35:29 +0200
 categories: talk bitcoin
 ---
 
-One month ago, I had my first public talk about Bitcoin at the Java User Group Torino. 
+One month ago, I had my first public talk about Bitcoin at the [Java User Group Torino](http://jugtorino.it). 
 
 It was a long time since my last presentation in front of a technical audience, and my feeling was I didn't do very 
 well.
