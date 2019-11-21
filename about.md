@@ -55,3 +55,4 @@ I used to practice boxe, but I stopped some time ago.
 I also used to have a technical blog (www.newinstance.it) but it exploded when I had issues with my 
 hosting provider, I still have the backup, maybe one day I'll port all the contents from Wordpress to this site. 
 Or maybe not :-)
+Some of the latest java related articles can still be found archived on [dzone](https://dzone.com/users/318902/lviggiano.html).
