@@ -11,10 +11,7 @@ permalink: /about/
 <a href="https://t.me/aeonbits"><i class="fa fa-telegram"></i></a>
 <a href="https://www.linkedin.com/in/viggiano"><i class="fa fa-fw fa-linkedin"></i></a>
 <a href="http://stackoverflow.com/users/258289/luigi-r-viggiano"><i class="fa fa-fw fa-stack-overflow"></i></a>
-<a href="https://twitter.com/lviggiano/"><i class="fa fa-fw fa-twitter"></i></a>
-<a href="https://www.facebook.com/luigi.viggiano.94"><i class="fa fa-fw fa-facebook"></i></a>
 <a href="https://www.flickr.com/photos/lviggiano/"><i class="fa fa-fw fa-flickr"></i></a>
-<a href="https://www.amazon.it/gp/profile/amzn1.account.AFQON7R25FKBPZJKPKISUOMDN2YA"><i class="fa fa-fw fa-amazon"></i></a>
 <a href="http://www.luigiviggiano.photography"><i class="fa fa-fw fa-camera-retro"></i></a>
 <a href="bitcoin:1J3vjV4GpSz4bzgj4bYjQKYaVv8e3TPdJL"><i class="fa fa-fw fa-bitcoin"></i></a>
 <a href="https://www.paypal.me/lviggiano"><i class="fa fa-fw fa-paypal"></i></a>
